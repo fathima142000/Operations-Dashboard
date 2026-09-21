@@ -11,4 +11,3 @@ This project simulates an operational intelligence model built in Microsoft Exce
 ### Business Insights
 - Rural service areas experience resolution delays significantly higher than urban centers, primarily driven by component availability bottlenecks in Substation and Distribution Line asset classes.
 
-https://github.com/fathima142000/Operations-Dashboard/blob/main/Visual.png?raw=true
